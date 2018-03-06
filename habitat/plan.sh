@@ -1,5 +1,5 @@
 pkg_name=sample-node-application
-pkg_origin=auspiciousraider
+pkg_origin=tgj
 pkg_scaffolding="core/scaffolding-node"
 pkg_version="1.0.1"
 
